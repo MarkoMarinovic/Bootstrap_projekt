@@ -1,0 +1,10 @@
+izbacit slider, iskoristit samo vojko sliku i stavit ju u div sa elementima iz slidera
+stavit facebook instagram i te ostale linkove u footer 
+napravit stranicu o marku i vilimu 
+dodat rejting za usluge na stranici 
+card sections na 40 min kursa, ideja za napraviti usluge 
+stavit da se kontakt na o nama otvara u novom tabu
+pop up izbornik za prijavite se 
+smanjiti visinu carousela
+padajuci prijavite se izbornik
+srediti css za prijavite se 
